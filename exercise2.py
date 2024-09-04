@@ -12,5 +12,15 @@ interested = "it is my indroduction to the world of coding"
 x = 28
 y = 37
 
+#equations required
+a = x + y
+b = y - x
+c = x * y
+d = y / x
+e = y % x
+
 #code written to print the variables into the format specified
 print(f"My name is {first_name.title()} {last_name.title()}.  My major is {major}.\nI'm most interested in this class because {interested}."
+
+
+
