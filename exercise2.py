@@ -21,6 +21,9 @@ e = y % x
 
 #code written to print the variables into the format specified
 print(f"My name is {first_name.title()} {last_name.title()}.  My major is {major}.\nI'm most interested in this class because {interested}."
+print(\nx" + "y" = "a)
+print(\ny" - "x" = "b)
+print(\nx" * "y" = "c)
 
 
 
